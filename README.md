@@ -1,4 +1,4 @@
-# Platform Game.
+# Endless Runner Game.
 
 > This project consist on build game using phaser 3, ES6, Webpack and Jest.
 
